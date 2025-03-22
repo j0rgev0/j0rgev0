@@ -1,11 +1,13 @@
+
+![Banner](https://github.com/tu_usuario/tu_repositorio/raw/main/assets/banner.jpg)
+
 ### 👋 ¡Hola, soy Jorge Vivar!
 
 ---
 
 ### 🚀 Sobre mí
 🎓 **Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)**  
-🛠️ **Experiencia en desarrollo web y móvil**  
-💡 **Interesado en la optimización y rendimiento de software**  
+🛠️ **Experiencia en desarrollo web y móvil**
 🌱 **Actualmente trabajando en el desarrollo de una plataforma de alquiler de pisos**  
 
 ---
@@ -33,7 +35,7 @@
 ---
 
 ### 🚀 Proyectos destacados
-- 🏠 [Instarent](https://github.com/j0rgev0/InstaRent) - Portal de alquiler de pisos *(en desarrollo)*
+- 🏠 [Instarent](https://github.com/j0rgev0/InstaRent) - Portal de alquiler de pisos *(en desarrollo)* ![En desarrollo](https://img.shields.io/badge/En%20desarrollo-orange?style=for-the-badge)
 - 🤖 [Chatbot con LLM](https://github.com/j0rgev0/chatbot-llm) - Chatbot con transformers y Streamlit
 - 📊 [Aplicacion de Gestion de equipos de futbol](https://github.com/j0rgev0/GestionEquipos) - CRUD con java, conectando a una base de datos.
 
