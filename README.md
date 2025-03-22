@@ -31,7 +31,7 @@
 ---
 
 ### 🚀 Featured Projects
-- 🏠 [Instarent](https://github.com/j0rgev0/InstaRent) - Rental platform *(in development)*  
+- 🏠 [Instarent](https://github.com/j0rgev0/InstaRent) - Rental platform *(in progres)*  
 - 🤖 [Chatbot with LLM](https://github.com/j0rgev0/chatbot-llm) - Chatbot with transformers and Streamlit  
 - 📊 [Football Team Management Application](https://github.com/j0rgev0/GestionEquipos) - CRUD with Java, connected to a database.
 
