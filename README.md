@@ -5,15 +5,26 @@
 ---
 
 ### 🚀 Sobre mí
-Soy estudiante de DAM con experiencia en varias tecnologías de desarrollo. Actualmente, estoy trabajando en varios proyectos interesantes, incluyendo un portal de alquiler de pisos y un chatbot basado en LLM.
+🎓 **Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)**  
+🛠️ **Experiencia en desarrollo web y móvil**  
+💡 **Interesado en la optimización y rendimiento de software**  
+🌱 **Actualmente trabajando en el desarrollo de una plataforma de alquiler de pisos**  
 
-🔹 **Tecnologías y herramientas:**
-- Python | JavaScript | Java
-- Django | Flask | Node.js | React Native
-- PostgreSQL | Odoo | APIs REST
-- Git & GitHub | Docker | Fl0
+---
 
-🔹 **Proyectos destacados:**
+### ✨ Habilidades
+**Lenguajes:**  
+- JavaScript | Python | Java  
+
+**Frameworks y tecnologías:**  
+- Django | Flask | Node.js | React Native  
+
+**Bases de Datos:**  
+- PostgreSQL | MySQL  
+
+---
+
+### 🚀 Proyectos destacados
 - 🏠 [Instarent](https://github.com/tuusuario/instarent) - Portal de alquiler de pisos 
 - 🤖 [Chatbot con LLM](https://github.com/j0rgev0/chatbot-llm) - Chatbot con transformers y Streamlit
 - 📊 [Aplicacion de Gestion de equipos de futbol](https://github.com/j0rgev0/GestionEquipos) - CRUD con java, conectando a una base de datos.
@@ -21,9 +32,8 @@ Soy estudiante de DAM con experiencia en varias tecnologías de desarrollo. Actu
 ---
 
 ### 📫 ¡Hablemos!
-📧 **Email:** [tuemail@example.com](mailto:tuemail@example.com)  
-💼 **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)  
-🐦 **Twitter/X:** [@tuusuario](https://twitter.com/tuusuario)
+📧 **Email:** [jorgevivar2005@gmail.com](mailto:jorgevivar2005@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/jorge-vivar-031829348](https://linkedin.com/in/jorge-vivar-031829348)  
 
 ---
 
