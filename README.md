@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Jorge Vivar!
+### 👋 Hi, I'm Jorge!
 
 ---
 
