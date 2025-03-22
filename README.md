@@ -1,48 +1,44 @@
-
-
-### 👋 ¡Hola, soy Jorge Vivar!
+### 👋 Hi, I'm Jorge Vivar!
 
 ---
 
-### 🚀 Sobre mí
-🎓 **Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)**  
-🛠️ **Experiencia en desarrollo web y móvil**
-🌱 **Actualmente trabajando en el desarrollo de una plataforma de alquiler de pisos**  
+### 🚀 About Me
+🎓 **Student of Multiplatform Application Development (DAM)**  
+🛠️ **Experience in web and mobile development**  
+🌱 **Currently working on developing a rental platform**  
 
 ---
 
-### ✨ Habilidades
-**Lenguajes:**  
+### ✨ Skills
+**Languages:**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-
-**Frameworks y tecnologías:**  
-![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+**Frameworks and Technologies:**  
+![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-**Bases de Datos:**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+**Databases:**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-### 🚀 Proyectos destacados
-- 🏠 [Instarent](https://github.com/j0rgev0/InstaRent) - Portal de alquiler de pisos *(en desarrollo)*
-- 🤖 [Chatbot con LLM](https://github.com/j0rgev0/chatbot-llm) - Chatbot con transformers y Streamlit
-- 📊 [Aplicacion de Gestion de equipos de futbol](https://github.com/j0rgev0/GestionEquipos) - CRUD con java, conectando a una base de datos.
+### 🚀 Featured Projects
+- 🏠 [Instarent](https://github.com/j0rgev0/InstaRent) - Rental platform *(in development)*  
+- 🤖 [Chatbot with LLM](https://github.com/j0rgev0/chatbot-llm) - Chatbot with transformers and Streamlit  
+- 📊 [Football Team Management Application](https://github.com/j0rgev0/GestionEquipos) - CRUD with Java, connected to a database.
 
 ---
 
-### 📫 ¡Hablemos!
+### 📫 Let's talk!  
 📧 **Email:** [jorgevivar2005@gmail.com](mailto:jorgevivar2005@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/jorge-vivar-031829348](https://linkedin.com/in/jorge-vivar-031829348)  
 
 ---
-
