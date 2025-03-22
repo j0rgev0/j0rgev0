@@ -13,19 +13,27 @@
 ### ✨ Habilidades
 **Lenguajes:**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
 
 **Frameworks y tecnologías:**  
-- Django | Flask | Node.js | React Native  
+![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 **Bases de Datos:**  
-- PostgreSQL | MySQL  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
 ### 🚀 Proyectos destacados
-- 🏠 [Instarent](https://github.com/tuusuario/instarent) - Portal de alquiler de pisos 
+- 🏠 [Instarent](https://github.com/j0rgev0/InstaRent) - Portal de alquiler de pisos *(en desarrollo)*
 - 🤖 [Chatbot con LLM](https://github.com/j0rgev0/chatbot-llm) - Chatbot con transformers y Streamlit
 - 📊 [Aplicacion de Gestion de equipos de futbol](https://github.com/j0rgev0/GestionEquipos) - CRUD con java, conectando a una base de datos.
 
