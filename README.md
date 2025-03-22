@@ -1,5 +1,4 @@
 
-![Banner](https://github.com/tu_usuario/tu_repositorio/raw/main/assets/banner.jpg)
 
 ### 👋 ¡Hola, soy Jorge Vivar!
 
@@ -47,4 +46,3 @@
 
 ---
 
-⭐ ¡No dudes en visitar mis repositorios y dejar una estrella en los proyectos que te gusten! ⭐
