@@ -1,7 +1,5 @@
 ### 👋 ¡Hola, soy Jorge Vivar!
 
-💻 **Desarrollador en formación | Apasionado por la tecnología y el código**
-
 ---
 
 ### 🚀 Sobre mí
@@ -14,7 +12,9 @@
 
 ### ✨ Habilidades
 **Lenguajes:**  
-- JavaScript | Python | Java  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 
 **Frameworks y tecnologías:**  
 - Django | Flask | Node.js | React Native  
