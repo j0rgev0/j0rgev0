@@ -35,7 +35,7 @@
 ---
 
 ### 🚀 Proyectos destacados
-- 🏠 [Instarent](https://github.com/j0rgev0/InstaRent) - Portal de alquiler de pisos *(en desarrollo)* ![En desarrollo](https://img.shields.io/badge/En%20desarrollo-orange?style=for-the-badge)
+- 🏠 [Instarent](https://github.com/j0rgev0/InstaRent) - Portal de alquiler de pisos *(en desarrollo)* ![WIP](https://img.shields.io/badge/WIP-Work_in_progress-yellow?style=for-the-badge)
 - 🤖 [Chatbot con LLM](https://github.com/j0rgev0/chatbot-llm) - Chatbot con transformers y Streamlit
 - 📊 [Aplicacion de Gestion de equipos de futbol](https://github.com/j0rgev0/GestionEquipos) - CRUD con java, conectando a una base de datos.
 
