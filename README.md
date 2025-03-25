@@ -11,11 +11,6 @@
   </a>
 </div>
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=j0rgev0.j0rgev0&" />
-</div>
 
 ###
 
@@ -82,3 +77,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=j0rgev0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=j0rgev0&radius=16&theme=github-dark&area=false&order=5&hide_border=true&hide_title=false" height="250" alt="activity-graph graph" />
 </div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=j0rgev0.j0rgev0&" />
+</div>
+
+###
