@@ -1,4 +1,3 @@
-
 <h1 align="center">👋 Hi, I'm Jorge!</h1>
 
 ###
@@ -15,7 +14,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=j0rgev.j0rgev&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=j0rgev0.j0rgev0&"  />
 </div>
 
 ###
