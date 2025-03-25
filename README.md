@@ -94,9 +94,9 @@
 
 <h3 align="left">🚀 Featured Projects:</h3>
 
-🏠 Instarent - Rental platform (in progres)
-🤖 Chatbot with LLM - Chatbot with transformers and Streamlit
-📊 Football Team Management Application - CRUD with Java, connected to a database.
+**<p align="left">🏠 Instarent - Rental platform (in progres)</p>**
+**<p align="left">🤖 Chatbot with LLM - Chatbot with transformers and Streamlit</p>**
+**<p align="left">📊 Football Team Management Application - CRUD with Java, connected to a database.</p>**
 
 ###
 <div align="center">
