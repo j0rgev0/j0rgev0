@@ -63,9 +63,9 @@
 
 <h3 align="left">🚀 Featured Projects:</h3>
 
-- 🏠 **Instarent** - *Rental platform (in progress)*
-- 🤖 **Chatbot with LLM** - *Chatbot with transformers and Streamlit*
-- 📊 **Football Team Management Application** - *CRUD with Java, connected to a database.*
+- 🏠 **Instarent** - *Rental platform (in progress)* [📂 View Repo](https://github.com/j0rgev0/InstaRent)
+- 🤖 **Chatbot with LLM** - *Chatbot with transformers and Streamlit*  [📂 View Repo](https://github.com/j0rgev0/chatbot-llm)
+- 📊 **Football Team Management Application** - *CRUD with Java, connected to a database.*  [📂 View Repo](https://github.com/j0rgev0/GestionEquipos)
 
 ###
 
