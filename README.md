@@ -4,27 +4,26 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jorge-vivar-031829348/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
   <a href="mailto:jorgevivar2005@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
   </a>
 </div>
 
-
 ###
 
-<h3 align="left">👩‍💻 About Me</h3>
+<h3 align="center">👨‍💻 About Me</h3>
 
-<p align="left">
+<p align="center">
   🎓 Student of Multiplatform Application Development (DAM)<br>
   🛠️ Experience in web and mobile development<br>
-  🌱 Currently working on developing a rental platform
+  🚧 Currently working on developing a rental platform
 </p>
 
 ###
 
-<h3 align="left">✨ Skills</h3>
+<h3 align="center">✨ Skills</h3>
 
 **Languages:**
 
@@ -61,27 +60,35 @@
 
 ###
 
-<h3 align="left">🚀 Featured Projects:</h3>
+<h3 align="center">🚀 Featured Projects</h3>
 
-- 🏠 **Instarent** - *Rental platform (in progress)* [📂 View Repo](https://github.com/j0rgev0/InstaRent)
-- 🤖 **Chatbot with LLM** - *Chatbot with transformers and Streamlit*  [📂 View Repo](https://github.com/j0rgev0/chatbot-llm)
-- 📊 **Football Team Management Application** - *CRUD with Java, connected to a database.*  [📂 View Repo](https://github.com/j0rgev0/GestionEquipos)
+<p align="center">
+  🏠 <strong>Instarent</strong> - <em>Rental platform (in progress)</em> → <a href="https://github.com/j0rgev0/InstaRent">📂 View Repo</a><br>
+  🤖 <strong>Chatbot with LLM</strong> - <em>Chatbot with transformers and Streamlit</em> → <a href="https://github.com/j0rgev0/chatbot-llm">📂 View Repo</a><br>
+  📊 <strong>Football Team Management Application</strong> - <em>CRUD with Java, connected to a database</em> → <a href="https://github.com/j0rgev0/GestionEquipos">📂 View Repo</a>
+</p>
 
 ###
 
-<h3 align="left">🔥 My Stats :</h3>
+<h3 align="center">📊 My Stats</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=j0rgev0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph" />
   <img src="https://streak-stats.demolab.com?user=j0rgev0&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=j0rgev0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=j0rgev0&radius=16&theme=github-dark&area=false&order=5&hide_border=true&hide_title=false" height="250" alt="activity-graph graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=j0rgev0&radius=16&theme=github-dark&area=false&order=5&hide_border=true&hide_title=false" height="250" alt="activity graph" />
 </div>
+
+###
+
+<h3 align="center">📫 Contact Me</h3>
+
+<p align="center">
+  Feel free to reach out via <a href="mailto:jorgevivar2005@gmail.com">email</a> or connect on <a href="https://www.linkedin.com/in/jorge-vivar-031829348/">LinkedIn</a>!
+</p>
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=j0rgev0.j0rgev0&" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=j0rgev0.j0rgev0" />
 </div>
-
-###
