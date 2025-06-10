@@ -36,6 +36,8 @@
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
 </div>
 
 **Frameworks and Technologies:**
@@ -43,6 +45,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
   <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo" />
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
   <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" />
   <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo" />
