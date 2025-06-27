@@ -67,7 +67,7 @@
 
 <p align="center">
   🏠 <strong>Instarent</strong> - <em>Rental platform </em> → <a href="https://github.com/j0rgev0/InstaRent">📂 View Repo</a><br>
-  💊 <strong>Time Capsule</strong> - <em>Digital memories vault</em> → <a href="https://github.com/j0rgev0/TimeCapsule">📂 View Repo</a><br>
+  💊 <strong>Time Capsule</strong> - <em>Digital memories vault (on progress)</em> → <a href="https://github.com/j0rgev0/TimeCapsule">📂 View Repo</a><br>
   🤖 <strong>Chatbot with LLM</strong> - <em>Chatbot with transformers and Streamlit</em> → <a href="https://github.com/j0rgev0/chatbot-llm">📂 View Repo</a><br>
   📊 <strong>Football Team Management Application</strong> - <em>CRUD with Java, connected to a database</em> → <a href="https://github.com/j0rgev0/GestionEquipos">📂 View Repo</a>
 </p>
